@@ -1,5 +1,2 @@
 memo*
 *.elc
-/emmet-mode.el
-/src/snippets.el
-/src/preferences.el
